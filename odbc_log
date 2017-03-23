@@ -1,0 +1,9 @@
+Installed mariadb
+configured with command in arch wiki
+created root password 42624
+followed asterisk odbc guide from book:
+	created user asterisk, password 42624
+Installed mariadb-connector-odbc(aur) file
+	Configured odbcinst.ini and odbc.ini as per book
+	checked odbc connection in asterisk , odbc show ; guess what, it works
+
